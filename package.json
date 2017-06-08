@@ -1,5 +1,5 @@
 {
-  "name": "basichttpserver",
+  "name": "basicexpresshttp",
   "version": "0.0.0",
   "description": "Tutorial for basic http server.",
   "main": "index.js",
@@ -11,5 +11,19 @@
     "stuff"
   ],
   "author": "Shrijan Karmacharya",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "eslint": "^3.19.0",
+    "express": "^4.15.3",
+    "http": "^0.0.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sots9/Learning.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sots9/Learning/issues"
+  },
+  "homepage": "https://github.com/sots9/Learning#readme"
 }
